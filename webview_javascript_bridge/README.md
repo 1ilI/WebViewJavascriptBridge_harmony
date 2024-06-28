@@ -12,7 +12,8 @@ WebViewJavascriptBridge 在 HarmonyOS 上的实现。
 
 主要是现有项目（iOS、Android、H5 ）均使用了此库的逻辑，鸿蒙上的开发也不会另起炉灶，于是就有了本库。
 
-![demo](./wvjb_demo.gif)
+![demo](../wvjb_demo.gif)
+
 ## 相关特性
 * 适配 HarmonyOS，API 10+
 * 逻辑简单，使用方便，不影响原先 Web 组件

@@ -1,0 +1,15 @@
+{
+  "name": "@yue/webview_javascript_bridge",
+  "version": "1.0.0",
+  "description": "WebViewJavascriptBridge 鸿蒙端实现",
+  "main": "Index.ets",
+  "author": "yue",
+  "license": "Apache-2.0",
+  "keywords": [
+    "Bridge",
+    "WebView",
+    "__bridge_loaded__",
+    "wvjb_queue_message",
+  ],
+  "dependencies": {}
+}
