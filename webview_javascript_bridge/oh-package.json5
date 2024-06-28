@@ -1,7 +1,9 @@
 {
   "name": "@yue/webview_javascript_bridge",
   "version": "1.0.0",
-  "description": "WebViewJavascriptBridge 鸿蒙端实现",
+  "description": "WebViewJavascriptBridge 在 HarmonyOS （API 10+）上的实现",
+  "repository": "https://github.com/1ilI/WebViewJavascriptBridge_harmony.git",
+  "homepage": "https://github.com/1ilI/WebViewJavascriptBridge_harmony",
   "main": "Index.ets",
   "author": "yue",
   "license": "Apache-2.0",
@@ -10,6 +12,7 @@
     "WebView",
     "__bridge_loaded__",
     "wvjb_queue_message",
+    "桥接交互",
   ],
   "dependencies": {}
 }
