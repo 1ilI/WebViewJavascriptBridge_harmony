@@ -8,10 +8,10 @@
   "author": "yue",
   "license": "Apache-2.0",
   "keywords": [
-    "Bridge",
+    "JSBridge",
     "WebView",
-    "__bridge_loaded__",
-    "wvjb_queue_message",
+    "bridge loaded",
+    "wvjb queue message",
     "桥接交互",
   ],
   "dependencies": {}
